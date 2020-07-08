@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>loginbtn.png</file>
+        <file>signup.jpg</file>
+        <file>images/prof.jpg</file>
+        <file>images/sign.png</file>
+        <file>images/user3.png</file>
+        <file>images/userp.jpg</file>
+        <file>images/login.png</file>
+        <file>images/lg.png</file>
+        <file>images/lg1.png</file>
+        <file>images/su.png</file>
+        <file>images/log2.png</file>
+        <file>images/su1.png</file>
+        <file>images/base2.png</file>
+        <file>images/su2.png</file>
+        <file>images/prof2.png</file>
+        <file>images/res.png</file>
+        <file>images/ok.png</file>
+        <file>images/no.png</file>
+        <file>images/st.png</file>
+    </qresource>
+</RCC>
